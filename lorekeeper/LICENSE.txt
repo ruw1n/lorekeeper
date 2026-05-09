@@ -1,0 +1,7 @@
+Lorekeeper Discord Bot license summary
+
+• Source code (Python): MIT — see LICENSES/LICENSE-MIT
+• Example configuration files: MIT — see LICENSES/LICENSE-MIT
+• Documentation: MIT — see LICENSES/LICENSE-MIT
+
+This repository does not include your server lore, Discord message archive, SQLite database, private prompts, API keys, bot tokens, or campaign setting material. Do not commit those.
