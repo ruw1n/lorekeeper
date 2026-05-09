@@ -667,6 +667,4 @@ If you later add art, setting lore, character writing, campaign material, or oth
 
 This is a free community release. I cannot promise setup help, hosting help, custom features, or emergency debugging for your server.
 
-You are welcome to fork it, modify it, and adapt it to your own campaign.
-
-If it helps your server, great. That is exactly why I shared it.
+You are welcome to fork it, modify it, and adapt it to your own campaign. If it helps your server, great.
