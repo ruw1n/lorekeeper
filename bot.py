@@ -26,7 +26,5 @@ async def on_ready():
 bot.load_extension("cogs.rpxp")
 bot.load_extension("cogs.lore")
 bot.load_extension("cogs.park")
-bot.load_extension("cogs.patrol")
-bot.load_extension("cogs.reactionroles")
 
 bot.run(TOKEN)
